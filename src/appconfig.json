@@ -1,0 +1,16 @@
+{
+	"appName": "Ability rotations",
+	"description": "App to show ability rotations",
+	"appUrl": "./index.html",
+	"configUrl": "./appconfig.json",
+	"iconUrl": "./app_icon.png",
+	"defaultWidth": 200,
+	"defaultHeight": 200,
+	"minWidth": 180,
+	"minHeight": 180,
+	"maxWidth": 1000,
+	"maxHeight": 1000,
+	"requestHandlers": [],
+	"activators": [],
+	"permissions": "pixel"
+}
